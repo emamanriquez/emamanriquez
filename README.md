@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PI - Dogs](https://github.com/emamanriquez/PI-Dogs)
+- 🔭 I’m currently working on [PI - Dogs](https://pi-dog-emamanriquez.netlify.app/)
 
 - 🌱 I’m currently learning **typescript**
 
