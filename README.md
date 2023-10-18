@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [UrbanBuy](https://urbanbuy.netlify.app/)
 
-- 💬 Ask me about **react,redux,javascript, express, mongodb,css3**
+- 💬 Ask me about **ReactJs,redux,Javascript, ExpressJs, Mongodb,css3, NodeJs**
 
 - 📫 How to reach me **emamanriquez1991@gmail.com**
 
