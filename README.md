@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Manriquez</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-
+<h6 align="center">Soy un desarrollador entusiasta! Mi enfoque está en crecer y aprender constantemente en las nuevas tecnologias.</h6>
+<h6 align="center">Mi Objetivo es Buscar oportunidades para aplicar y ampliar mis habilidades y contribuir al éxito de un equipo dinámico y motivado.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emamanriquez&label=Profile%20views&color=0e75b6&style=flat" alt="emamanriquez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emamanriquez" alt="emamanriquez" /></a> </p>
